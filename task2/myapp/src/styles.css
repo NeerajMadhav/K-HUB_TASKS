@@ -1,0 +1,42 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+.container {
+    width: 50px;
+    margin: 0 auto;
+} 
+body{
+    background-color:black
+}
+br{
+    padding: 70px 0;
+}
+h1 {
+    color: #e5cffc;
+    color: white;
+    font-size: 26px;
+    margin-bottom: 50px;
+}
+label {
+    display: block;
+    margin-bottom: 1px;
+    color: white;
+}
+input {
+    width: 25%;
+    padding: 7px;
+    border: 1px solid #ccc;
+}
+button {
+    margin-top: 1px;
+    margin-right: 2px;
+    padding: 50px;
+    background-color: #000;
+    color: #ffffff;
+    border: none;
+}
+input[type="submit"] {
+    height: 50px;
+    width: 100px;
+}
